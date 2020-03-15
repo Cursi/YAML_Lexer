@@ -1,0 +1,79 @@
+| document: 
+| | map value
+| | | key: [formatting]
+| | | map value
+| | | | key: [from-game]
+| | | | map value
+| | | | | key: [chat]
+| | | | | string value: [(%sender%) %message%]
+| | | | | key: [action]
+| | | | | string value: [* %sender% %message%]
+| | | | key: [additional]
+| | | | string value: [format]
+| | | key: [twobytwotable]
+| | | list value
+| | | | list value
+| | | | | string value: [a1]
+| | | | | string value: [a2]
+| | | | list value
+| | | | | string value: [b1]
+| | | | | string value: [b2]
+| document: 
+| | map value
+| | | key: [combined]
+| | | list value
+| | | | map value
+| | | | | key: [key11]
+| | | | | numeric value: [1]
+| | | | | key: [key12]
+| | | | | numeric value: [0]
+| | | | map value
+| | | | | key: [key21]
+| | | | | numeric value: [0]
+| | | | | key: [key22]
+| | | | | numeric value: [1]
+| document: 
+| | map value
+| | | key: [simplelist]
+| | | list value
+| | | | string value: [e1]
+| | | | string value: [e2]
+| | | | numeric value: [1]
+| | | | numeric value: [2]
+| | | | numeric value: [3]
+| | | key: [onemorelist]
+| | | list value
+| | | | numeric value: [1]
+| | | | numeric value: [2]
+| | | | numeric value: [3]
+| | | | map value
+| | | | | key: [x1]
+| | | | | numeric value: [2]
+| | | | | key: [y3]
+| | | | | numeric value: [4.5]
+| | | key: [empties]
+| | | list value
+| | | | list value
+| | | | list value
+| | | | | list value
+| | | | | list value
+| | | | list value
+| | | | list value
+| | | key: [non-empties]
+| | | list value
+| | | | list value
+| | | | | numeric value: [1]
+| | | | | numeric value: [2]
+| | | | list value
+| | | | | list value
+| | | | | | string value: [a]
+| | | | | | string value: [b]
+| | | | | list value
+| | | | | | string value: [5]
+| | | | | | string value: [6]
+| | | | | | string value: [7]
+| | | | list value
+| | | | | string value: [single]
+| | | | list value
+| | | key: [final]
+| | | string value: [one]

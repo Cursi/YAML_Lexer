@@ -1,0 +1,4 @@
+---
+# maps
+mapone: {key1: value, key2: value2}
+maptwo: {key1: {a: b, other: 22}, key2: value}

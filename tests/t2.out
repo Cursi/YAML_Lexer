@@ -1,0 +1,18 @@
+| document: 
+| | map value
+| | | key: [mapone]
+| | | map value
+| | | | key: [key1]
+| | | | string value: [value]
+| | | | key: [key2]
+| | | | string value: [value2]
+| | | key: [maptwo]
+| | | map value
+| | | | key: [key1]
+| | | | map value:
+| | | | | key: [a]
+| | | | | string value: [b]
+| | | | | key: [other]
+| | | | | numeric value: [22]
+| | | | key: [key2]
+| | | | string value: [value]

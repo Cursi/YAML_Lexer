@@ -1,0 +1,10 @@
+| document: 
+| | map value
+| | | key: [a]
+| | | numeric value: [5]
+| | | key: [b]
+| | | string value: [string value]
+| | | key: [c]
+| | | string value: [value]
+| | | key: [d]
+| | | string value: [125]

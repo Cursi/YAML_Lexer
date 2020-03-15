@@ -1,0 +1,11 @@
+--- # check this
+formatting: {from-game: {chat: '(%sender%) %message%', action: '* %sender% %message%'},additional: format} #this
+twobytwotable: [ ['a1', 'a2'], ['b1', 'b2'] ]
+--- # next doc
+combined: [ {key11: 1, key12: 0}, {key21: 0, key22: 1}]
+---
+simplelist: [e1,e2,1,2,3]
+onemorelist: [1,2,3,{x1: 2, y3: 4.5}]
+empties: [[],[[],[]],[],[]]
+non-empties: [[1,2],[[a,b],['5', '6', '7']],[single],[]]
+final: one
